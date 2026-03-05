@@ -1,5 +1,7 @@
 # JAMMMBOT
 
+Before anything: huge shoutout to Dorian Todd and JustCallMeKoko, their work is the foudnation for this project and I couldn't have done any of this without their repos and guides.
+
 Description: A quadrupedal robot that will detect nearby Wi-Fi devices, disrupt targeted connections, generate numerous spoofed networks, and overwhelm or mislead wireless scanning tools. Built for educational purposes.
 
 Why I made this: I wanted to build a quadrapedal robot that can crawl, but also wanted to make it special in someway. So, I attached hacking hardware so it can penetrate test networks and do other cool things including but not limited to: staging deauthentication attacks, beacon spam, making fake wifi logins to capture credentials, run packet injections, bluetooth spam, and impersonate SSIDs.
